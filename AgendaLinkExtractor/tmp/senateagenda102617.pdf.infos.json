@@ -1,0 +1,24 @@
+{
+  "source": {
+    "location": "/Users/ars62917/Box Sync/FacultyPresident/SenateDocsManager/AgendaLinkExtractor/ToProcess/senateagenda102617.pdf",
+    "type": "file",
+    "filename": "senateagenda102617.pdf"
+  },
+  "metadata": {
+    "Creator": "Microsoft\u00ae Word 2013",
+    "ModDate": "D:20171024155423-07'00'",
+    "Title": " ",
+    "CreationDate": "D:20171024155423-07'00'",
+    "Producer": "Microsoft\u00ae Word 2013",
+    "Author": "Heidi Wolfbauer",
+    "Pages": 1
+  },
+  "references": {
+    "pdf": [
+      "https://www.csun.edu/sites/default/files/resolution-executive-orders-1100-1110-102617.pdf",
+      "http://www.csun.edu/sites/default/files/withdrawal-unauthorized102617.pdf",
+      "https://www.csun.edu/sites/default/files/senateminutes092817.pdf",
+      "https://www.csun.edu/sites/default/files/motion-executive-orders-1100-1110-102617.pdf"
+    ]
+  }
+}
